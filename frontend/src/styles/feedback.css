@@ -1,0 +1,41 @@
+.feedback-container {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+  background: #f4f4f4;
+
+}
+
+.feedback-box {
+
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  width: 350px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+}
+
+.feedback-box textarea {
+
+  height: 80px;
+  resize: none;
+
+}
+
+.feedback-box button {
+
+  margin-top: 10px;
+  padding: 10px;
+
+  background: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
