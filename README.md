@@ -610,3 +610,12 @@ npm run build
 alembic upgrade head
 createdb event_management_db
 ```
+## Copyright Notice
+
+Copyright © 2026 Abhilash. All Rights Reserved.
+
+This repository is provided for portfolio, educational, and evaluation purposes only.
+
+No permission is granted to copy, modify, redistribute, sublicense, sell, or commercially use any part of this codebase without prior written permission from the author.
+
+Recruiters and hiring teams are welcome to review the source code for evaluation purposes.
